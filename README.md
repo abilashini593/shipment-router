@@ -43,3 +43,31 @@ shipment-router/
 │   └── models.py                # Pydantic data schemas
 └── tests/
     └── test_engine.py           # Pytest test suite
+
+## Setup & Installation
+Prerequisites
+Python 3.10+
+
+Virtual Environment Setup
+PowerShell
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+Install Dependencies
+PowerShell
+python -m pip install pydantic pytest
+Usage
+1. Generate Synthetic Dataset
+To generate a fresh dataset of 26 shipments with multi-leg candidate routes:
+
+PowerShell
+$env:PYTHONPATH="."; python -m src.generate_dataset
+2. Run Route Recommendation CLI
+To execute the route optimization pipeline and view operator recommendations:
+
+PowerShell
+$env:PYTHONPATH="."; python -m src.cli --input data/shipment_dataset.json
+3. Run Unit Tests
+To verify schema parsing, metric aggregation, and scoring logic:
+
+PowerShell
+$env:PYTHONPATH="."; python -m pytest
