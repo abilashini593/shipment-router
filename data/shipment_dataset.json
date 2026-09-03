@@ -1,0 +1,3802 @@
+[
+  {
+    "shipment_id": "526e3ce1-f646-40a4-8bc3-d9f46ce264b5",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "e73a762c-52e2-4ee1-8700-ccfd8eff9fef",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1791.76,
+            "time": 69.11,
+            "delay_prob": 0.13,
+            "congestion": 0.48,
+            "geopolitical": 0.29
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "SIN",
+            "cost": 612.58,
+            "time": 69.62,
+            "delay_prob": 0.29,
+            "congestion": 0.46,
+            "geopolitical": 0.31
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "SIN",
+            "cost": 1498.81,
+            "time": 230.62,
+            "delay_prob": 0.3,
+            "congestion": 0.23,
+            "geopolitical": 0.48
+          }
+        ],
+        "total_cost": 3903.15,
+        "total_time": 369.35,
+        "delay_prob": 0.24,
+        "risk_score": 0.294
+      },
+      {
+        "route_id": "5b2a4b3a-fef2-4fba-b101-c1288a3c7dbd",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 1027.88,
+            "time": 119.74,
+            "delay_prob": 0.28,
+            "congestion": 0.06,
+            "geopolitical": 0.41
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 818.8,
+            "time": 33.09,
+            "delay_prob": 0.08,
+            "congestion": 0.35,
+            "geopolitical": 0.25
+          },
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 1156.11,
+            "time": 221.27,
+            "delay_prob": 0.1,
+            "congestion": 0.15,
+            "geopolitical": 0.15
+          }
+        ],
+        "total_cost": 3002.79,
+        "total_time": 374.1,
+        "delay_prob": 0.15333333333333335,
+        "risk_score": 0.18333333333333335
+      },
+      {
+        "route_id": "3b5bd1b1-bdb3-4f0f-8df2-817668314a5c",
+        "legs": [
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 1600.56,
+            "time": 119.73,
+            "delay_prob": 0.3,
+            "congestion": 0.26,
+            "geopolitical": 0.45
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "NYC",
+            "cost": 256.42,
+            "time": 87.67,
+            "delay_prob": 0.15,
+            "congestion": 0.47,
+            "geopolitical": 0.22
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 1135.59,
+            "time": 153.85,
+            "delay_prob": 0.26,
+            "congestion": 0.04,
+            "geopolitical": 0.18
+          }
+        ],
+        "total_cost": 2992.5699999999997,
+        "total_time": 361.25,
+        "delay_prob": 0.23666666666666666,
+        "risk_score": 0.25
+      }
+    ]
+  },
+  {
+    "shipment_id": "e0aed7b0-cd64-411f-af59-d2746cdee45b",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "85b5f85a-ef45-47c7-b8bd-df43e80c4f94",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 972.51,
+            "time": 126.97,
+            "delay_prob": 0.07,
+            "congestion": 0.45,
+            "geopolitical": 0.2
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 1140.13,
+            "time": 64.58,
+            "delay_prob": 0.24,
+            "congestion": 0.26,
+            "geopolitical": 0.21
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1667.77,
+            "time": 109.8,
+            "delay_prob": 0.02,
+            "congestion": 0.25,
+            "geopolitical": 0.19
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 1499.88,
+            "time": 212.66,
+            "delay_prob": 0.19,
+            "congestion": 0.45,
+            "geopolitical": 0.28
+          }
+        ],
+        "total_cost": 5280.29,
+        "total_time": 514.01,
+        "delay_prob": 0.13,
+        "risk_score": 0.19250000000000003
+      },
+      {
+        "route_id": "fe524e38-d52b-4d8f-a372-1569196997f8",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 1065.97,
+            "time": 228.26,
+            "delay_prob": 0.11,
+            "congestion": 0.23,
+            "geopolitical": 0.16
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "DXB",
+            "cost": 370.25,
+            "time": 166.35,
+            "delay_prob": 0.21,
+            "congestion": 0.01,
+            "geopolitical": 0.24
+          }
+        ],
+        "total_cost": 1436.22,
+        "total_time": 394.61,
+        "delay_prob": 0.16,
+        "risk_score": 0.16000000000000003
+      },
+      {
+        "route_id": "0140cd31-1df3-40f2-8b51-caf558cef83f",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "DXB",
+            "cost": 1030.69,
+            "time": 26.51,
+            "delay_prob": 0.14,
+            "congestion": 0.47,
+            "geopolitical": 0.17
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 888.14,
+            "time": 214.62,
+            "delay_prob": 0.15,
+            "congestion": 0.4,
+            "geopolitical": 0.32
+          }
+        ],
+        "total_cost": 1918.83,
+        "total_time": 241.13,
+        "delay_prob": 0.14500000000000002,
+        "risk_score": 0.22300000000000003
+      },
+      {
+        "route_id": "bd61cb6f-6e59-4fa3-82b3-8379f8ef6b0d",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 363.5,
+            "time": 31.04,
+            "delay_prob": 0.1,
+            "congestion": 0.27,
+            "geopolitical": 0.19
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "DXB",
+            "cost": 1558.76,
+            "time": 142.23,
+            "delay_prob": 0.16,
+            "congestion": 0.2,
+            "geopolitical": 0.03
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 1400.75,
+            "time": 15.82,
+            "delay_prob": 0.04,
+            "congestion": 0.27,
+            "geopolitical": 0.38
+          }
+        ],
+        "total_cost": 3323.01,
+        "total_time": 189.08999999999997,
+        "delay_prob": 0.09999999999999999,
+        "risk_score": 0.14933333333333335
+      },
+      {
+        "route_id": "63dcb22f-e1d3-40ca-af2b-bd05c2307468",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 1622.95,
+            "time": 81.04,
+            "delay_prob": 0.13,
+            "congestion": 0.29,
+            "geopolitical": 0.01
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "SIN",
+            "cost": 1081.83,
+            "time": 142.78,
+            "delay_prob": 0.02,
+            "congestion": 0.26,
+            "geopolitical": 0.09
+          }
+        ],
+        "total_cost": 2704.7799999999997,
+        "total_time": 223.82,
+        "delay_prob": 0.075,
+        "risk_score": 0.11
+      }
+    ]
+  },
+  {
+    "shipment_id": "ea3feba7-82cf-44c3-8aae-47360b965195",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "0946b699-1dea-4d5d-abc2-db70b936f7a2",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 1904.11,
+            "time": 233.84,
+            "delay_prob": 0.17,
+            "congestion": 0.41,
+            "geopolitical": 0.05
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "DXB",
+            "cost": 997.71,
+            "time": 50.68,
+            "delay_prob": 0.28,
+            "congestion": 0.11,
+            "geopolitical": 0.01
+          }
+        ],
+        "total_cost": 2901.8199999999997,
+        "total_time": 284.52,
+        "delay_prob": 0.22500000000000003,
+        "risk_score": 0.193
+      },
+      {
+        "route_id": "828d73e7-d2ac-421d-8bbf-62aaf7944d5a",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 205.43,
+            "time": 83.15,
+            "delay_prob": 0.14,
+            "congestion": 0.33,
+            "geopolitical": 0.27
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "NYC",
+            "cost": 1364.46,
+            "time": 114.12,
+            "delay_prob": 0.25,
+            "congestion": 0.19,
+            "geopolitical": 0.17
+          }
+        ],
+        "total_cost": 1569.89,
+        "total_time": 197.27,
+        "delay_prob": 0.195,
+        "risk_score": 0.213
+      },
+      {
+        "route_id": "5abee611-79aa-4de7-aba3-8c265cea9caa",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 279.41,
+            "time": 68.97,
+            "delay_prob": 0.16,
+            "congestion": 0.03,
+            "geopolitical": 0.33
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "HKG",
+            "cost": 1488.29,
+            "time": 82.3,
+            "delay_prob": 0.22,
+            "congestion": 0.03,
+            "geopolitical": 0.25
+          },
+          {
+            "from_location": "LON",
+            "to_location": "NYC",
+            "cost": 1715.08,
+            "time": 108.75,
+            "delay_prob": 0.02,
+            "congestion": 0.46,
+            "geopolitical": 0.01
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 1485.07,
+            "time": 149.95,
+            "delay_prob": 0.02,
+            "congestion": 0.5,
+            "geopolitical": 0.31
+          }
+        ],
+        "total_cost": 4967.849999999999,
+        "total_time": 409.96999999999997,
+        "delay_prob": 0.105,
+        "risk_score": 0.159
+      }
+    ]
+  },
+  {
+    "shipment_id": "70129bac-66a8-4f6a-9c39-a4ffd469181c",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "96a93c7e-1822-419d-a80f-d807602d6953",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 585.93,
+            "time": 71.36,
+            "delay_prob": 0.15,
+            "congestion": 0.44,
+            "geopolitical": 0.43
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "SIN",
+            "cost": 1266.37,
+            "time": 190.68,
+            "delay_prob": 0.18,
+            "congestion": 0.49,
+            "geopolitical": 0.12
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 1316.33,
+            "time": 86.24,
+            "delay_prob": 0.13,
+            "congestion": 0.07,
+            "geopolitical": 0.02
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 1318.93,
+            "time": 48.36,
+            "delay_prob": 0.21,
+            "congestion": 0.08,
+            "geopolitical": 0.45
+          }
+        ],
+        "total_cost": 4487.5599999999995,
+        "total_time": 396.64,
+        "delay_prob": 0.16749999999999998,
+        "risk_score": 0.20550000000000002
+      },
+      {
+        "route_id": "a52fbfb8-7d1e-42f8-8781-7a6bff87810b",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "SIN",
+            "cost": 923.23,
+            "time": 234.03,
+            "delay_prob": 0.2,
+            "congestion": 0.37,
+            "geopolitical": 0.28
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 893.15,
+            "time": 141.03,
+            "delay_prob": 0.25,
+            "congestion": 0.48,
+            "geopolitical": 0.44
+          }
+        ],
+        "total_cost": 1816.38,
+        "total_time": 375.06,
+        "delay_prob": 0.225,
+        "risk_score": 0.29200000000000004
+      },
+      {
+        "route_id": "06ac1e97-b19a-48e0-890c-271cfe0c5fcd",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 261.53,
+            "time": 22.42,
+            "delay_prob": 0.06,
+            "congestion": 0.11,
+            "geopolitical": 0.34
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 460.84,
+            "time": 86.29,
+            "delay_prob": 0.12,
+            "congestion": 0.29,
+            "geopolitical": 0.44
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1963.3,
+            "time": 79.06,
+            "delay_prob": 0.06,
+            "congestion": 0.26,
+            "geopolitical": 0.35
+          }
+        ],
+        "total_cost": 2685.67,
+        "total_time": 187.77,
+        "delay_prob": 0.08,
+        "risk_score": 0.16733333333333333
+      },
+      {
+        "route_id": "7e0e49d5-1ce6-42b3-989e-f03347904e43",
+        "legs": [
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 418.87,
+            "time": 89.85,
+            "delay_prob": 0.09,
+            "congestion": 0.28,
+            "geopolitical": 0.0
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 161.47,
+            "time": 160.21,
+            "delay_prob": 0.09,
+            "congestion": 0.02,
+            "geopolitical": 0.05
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 1032.51,
+            "time": 51.29,
+            "delay_prob": 0.28,
+            "congestion": 0.44,
+            "geopolitical": 0.05
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 882.22,
+            "time": 177.74,
+            "delay_prob": 0.09,
+            "congestion": 0.42,
+            "geopolitical": 0.02
+          }
+        ],
+        "total_cost": 2495.07,
+        "total_time": 479.09000000000003,
+        "delay_prob": 0.1375,
+        "risk_score": 0.14650000000000002
+      },
+      {
+        "route_id": "dec98c41-61a6-41a7-8b68-f00bf7548474",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 1161.97,
+            "time": 106.59,
+            "delay_prob": 0.14,
+            "congestion": 0.33,
+            "geopolitical": 0.06
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "HKG",
+            "cost": 1406.08,
+            "time": 72.58,
+            "delay_prob": 0.14,
+            "congestion": 0.44,
+            "geopolitical": 0.08
+          }
+        ],
+        "total_cost": 2568.05,
+        "total_time": 179.17000000000002,
+        "delay_prob": 0.14,
+        "risk_score": 0.17500000000000004
+      }
+    ]
+  },
+  {
+    "shipment_id": "4a5869c4-ef7f-4982-8f11-ad33b4364d10",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "a9bb0bd2-50a9-409a-9e27-cab81064e7d1",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "NYC",
+            "cost": 667.05,
+            "time": 46.5,
+            "delay_prob": 0.07,
+            "congestion": 0.17,
+            "geopolitical": 0.4
+          },
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 1086.36,
+            "time": 17.46,
+            "delay_prob": 0.1,
+            "congestion": 0.13,
+            "geopolitical": 0.43
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "SIN",
+            "cost": 906.58,
+            "time": 81.2,
+            "delay_prob": 0.17,
+            "congestion": 0.18,
+            "geopolitical": 0.48
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 1774.48,
+            "time": 61.56,
+            "delay_prob": 0.09,
+            "congestion": 0.31,
+            "geopolitical": 0.03
+          }
+        ],
+        "total_cost": 4434.47,
+        "total_time": 206.72,
+        "delay_prob": 0.10750000000000001,
+        "risk_score": 0.171
+      },
+      {
+        "route_id": "cd46802d-ab22-45df-87a8-009055c05bd4",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "NYC",
+            "cost": 804.2,
+            "time": 209.96,
+            "delay_prob": 0.09,
+            "congestion": 0.13,
+            "geopolitical": 0.13
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "LON",
+            "cost": 350.47,
+            "time": 174.29,
+            "delay_prob": 0.29,
+            "congestion": 0.49,
+            "geopolitical": 0.24
+          }
+        ],
+        "total_cost": 1154.67,
+        "total_time": 384.25,
+        "delay_prob": 0.19,
+        "risk_score": 0.213
+      },
+      {
+        "route_id": "d143836b-44a7-49dd-8de0-2e637454aaad",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 1958.6,
+            "time": 115.91,
+            "delay_prob": 0.2,
+            "congestion": 0.38,
+            "geopolitical": 0.1
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 1515.61,
+            "time": 102.16,
+            "delay_prob": 0.07,
+            "congestion": 0.24,
+            "geopolitical": 0.28
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 1202.39,
+            "time": 151.56,
+            "delay_prob": 0.12,
+            "congestion": 0.08,
+            "geopolitical": 0.23
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "SIN",
+            "cost": 1136.06,
+            "time": 129.32,
+            "delay_prob": 0.14,
+            "congestion": 0.38,
+            "geopolitical": 0.01
+          }
+        ],
+        "total_cost": 5812.66,
+        "total_time": 498.95,
+        "delay_prob": 0.1325,
+        "risk_score": 0.1645
+      },
+      {
+        "route_id": "34ddc2bc-a6df-4d06-8b88-e66eaf5ab9d1",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 1122.81,
+            "time": 223.0,
+            "delay_prob": 0.25,
+            "congestion": 0.38,
+            "geopolitical": 0.12
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "SIN",
+            "cost": 1120.84,
+            "time": 169.63,
+            "delay_prob": 0.22,
+            "congestion": 0.01,
+            "geopolitical": 0.09
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 1793.51,
+            "time": 26.34,
+            "delay_prob": 0.03,
+            "congestion": 0.24,
+            "geopolitical": 0.47
+          }
+        ],
+        "total_cost": 4037.16,
+        "total_time": 418.96999999999997,
+        "delay_prob": 0.16666666666666666,
+        "risk_score": 0.18733333333333332
+      },
+      {
+        "route_id": "fb51be00-102a-4b53-902a-04e296215ec0",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "SIN",
+            "cost": 1098.71,
+            "time": 56.86,
+            "delay_prob": 0.13,
+            "congestion": 0.41,
+            "geopolitical": 0.03
+          },
+          {
+            "from_location": "LON",
+            "to_location": "DXB",
+            "cost": 583.6,
+            "time": 20.53,
+            "delay_prob": 0.08,
+            "congestion": 0.01,
+            "geopolitical": 0.29
+          }
+        ],
+        "total_cost": 1682.31,
+        "total_time": 77.39,
+        "delay_prob": 0.10500000000000001,
+        "risk_score": 0.137
+      }
+    ]
+  },
+  {
+    "shipment_id": "4a1f0b36-ab40-45b3-95b1-b3465065e7b3",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "167f3850-2b1f-48d4-9a6b-665191bfdb7c",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 750.6,
+            "time": 89.25,
+            "delay_prob": 0.05,
+            "congestion": 0.46,
+            "geopolitical": 0.04
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "SIN",
+            "cost": 1754.32,
+            "time": 55.61,
+            "delay_prob": 0.26,
+            "congestion": 0.08,
+            "geopolitical": 0.17
+          }
+        ],
+        "total_cost": 2504.92,
+        "total_time": 144.86,
+        "delay_prob": 0.155,
+        "risk_score": 0.16800000000000004
+      },
+      {
+        "route_id": "35812dd9-cd7e-4a80-a926-37dae984b9a7",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 202.77,
+            "time": 33.16,
+            "delay_prob": 0.08,
+            "congestion": 0.41,
+            "geopolitical": 0.11
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 324.91,
+            "time": 35.14,
+            "delay_prob": 0.17,
+            "congestion": 0.25,
+            "geopolitical": 0.38
+          }
+        ],
+        "total_cost": 527.6800000000001,
+        "total_time": 68.3,
+        "delay_prob": 0.125,
+        "risk_score": 0.19
+      },
+      {
+        "route_id": "9ea9c2a2-d09c-495d-bf20-de3372e0e1d8",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "NYC",
+            "cost": 1546.33,
+            "time": 40.33,
+            "delay_prob": 0.15,
+            "congestion": 0.32,
+            "geopolitical": 0.36
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "SIN",
+            "cost": 1428.79,
+            "time": 182.89,
+            "delay_prob": 0.03,
+            "congestion": 0.3,
+            "geopolitical": 0.25
+          }
+        ],
+        "total_cost": 2975.12,
+        "total_time": 223.21999999999997,
+        "delay_prob": 0.09,
+        "risk_score": 0.177
+      }
+    ]
+  },
+  {
+    "shipment_id": "d4fdc8a8-6d9e-4992-aace-2dc296b9d20c",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "cf6e8788-726c-4bf4-a284-4c48e73c4433",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 1535.41,
+            "time": 13.68,
+            "delay_prob": 0.07,
+            "congestion": 0.49,
+            "geopolitical": 0.28
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "NYC",
+            "cost": 823.2,
+            "time": 207.61,
+            "delay_prob": 0.25,
+            "congestion": 0.42,
+            "geopolitical": 0.27
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "NYC",
+            "cost": 591.05,
+            "time": 140.15,
+            "delay_prob": 0.03,
+            "congestion": 0.5,
+            "geopolitical": 0.5
+          }
+        ],
+        "total_cost": 2949.66,
+        "total_time": 361.44,
+        "delay_prob": 0.11666666666666665,
+        "risk_score": 0.23399999999999999
+      },
+      {
+        "route_id": "1aab1408-c3f1-4da3-8c22-c745f8100267",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "NYC",
+            "cost": 789.62,
+            "time": 131.16,
+            "delay_prob": 0.11,
+            "congestion": 0.06,
+            "geopolitical": 0.09
+          },
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 1077.96,
+            "time": 141.94,
+            "delay_prob": 0.26,
+            "congestion": 0.18,
+            "geopolitical": 0.45
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "HKG",
+            "cost": 1119.22,
+            "time": 86.2,
+            "delay_prob": 0.29,
+            "congestion": 0.19,
+            "geopolitical": 0.12
+          }
+        ],
+        "total_cost": 2986.8,
+        "total_time": 359.3,
+        "delay_prob": 0.22,
+        "risk_score": 0.2046666666666667
+      },
+      {
+        "route_id": "e3a44f38-8e52-447a-a36d-ca309ea8e6b8",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 372.31,
+            "time": 55.65,
+            "delay_prob": 0.18,
+            "congestion": 0.09,
+            "geopolitical": 0.03
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 1481.72,
+            "time": 185.61,
+            "delay_prob": 0.11,
+            "congestion": 0.08,
+            "geopolitical": 0.01
+          }
+        ],
+        "total_cost": 1854.03,
+        "total_time": 241.26000000000002,
+        "delay_prob": 0.145,
+        "risk_score": 0.108
+      }
+    ]
+  },
+  {
+    "shipment_id": "5c02fc67-caae-4cc8-9da9-70387d26d101",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "beb3de2d-1083-491e-afce-4c113ebcdddb",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "NYC",
+            "cost": 1152.74,
+            "time": 46.06,
+            "delay_prob": 0.24,
+            "congestion": 0.04,
+            "geopolitical": 0.0
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 148.21,
+            "time": 130.79,
+            "delay_prob": 0.09,
+            "congestion": 0.47,
+            "geopolitical": 0.42
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 771.92,
+            "time": 60.49,
+            "delay_prob": 0.19,
+            "congestion": 0.0,
+            "geopolitical": 0.05
+          }
+        ],
+        "total_cost": 2072.87,
+        "total_time": 237.34,
+        "delay_prob": 0.17333333333333334,
+        "risk_score": 0.16933333333333334
+      },
+      {
+        "route_id": "1a054f08-95d4-4fe5-9aca-94bd980f467a",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 611.13,
+            "time": 27.64,
+            "delay_prob": 0.18,
+            "congestion": 0.09,
+            "geopolitical": 0.14
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 1152.77,
+            "time": 72.15,
+            "delay_prob": 0.03,
+            "congestion": 0.36,
+            "geopolitical": 0.21
+          },
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 1424.72,
+            "time": 100.09,
+            "delay_prob": 0.2,
+            "congestion": 0.46,
+            "geopolitical": 0.27
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 291.41,
+            "time": 115.24,
+            "delay_prob": 0.15,
+            "congestion": 0.36,
+            "geopolitical": 0.01
+          }
+        ],
+        "total_cost": 3480.03,
+        "total_time": 315.12,
+        "delay_prob": 0.14,
+        "risk_score": 0.17900000000000002
+      },
+      {
+        "route_id": "3bc0aecd-982a-4b5e-81c9-35f3e770904b",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 731.68,
+            "time": 153.78,
+            "delay_prob": 0.25,
+            "congestion": 0.5,
+            "geopolitical": 0.05
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "LON",
+            "cost": 244.47,
+            "time": 42.51,
+            "delay_prob": 0.09,
+            "congestion": 0.43,
+            "geopolitical": 0.43
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "DXB",
+            "cost": 1499.9,
+            "time": 170.9,
+            "delay_prob": 0.06,
+            "congestion": 0.35,
+            "geopolitical": 0.13
+          }
+        ],
+        "total_cost": 2476.05,
+        "total_time": 367.19,
+        "delay_prob": 0.13333333333333333,
+        "risk_score": 0.20600000000000002
+      },
+      {
+        "route_id": "101de09f-836f-4fd0-b944-f9bb1b6b8985",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1104.14,
+            "time": 194.9,
+            "delay_prob": 0.12,
+            "congestion": 0.08,
+            "geopolitical": 0.48
+          },
+          {
+            "from_location": "LON",
+            "to_location": "NYC",
+            "cost": 248.13,
+            "time": 160.03,
+            "delay_prob": 0.3,
+            "congestion": 0.07,
+            "geopolitical": 0.4
+          },
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 1838.63,
+            "time": 105.03,
+            "delay_prob": 0.12,
+            "congestion": 0.4,
+            "geopolitical": 0.23
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "NYC",
+            "cost": 1946.88,
+            "time": 223.79,
+            "delay_prob": 0.29,
+            "congestion": 0.41,
+            "geopolitical": 0.48
+          }
+        ],
+        "total_cost": 5137.780000000001,
+        "total_time": 683.75,
+        "delay_prob": 0.2075,
+        "risk_score": 0.252
+      },
+      {
+        "route_id": "ebafc53c-a7bb-4410-a9fc-5f6d0ea04713",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "SIN",
+            "cost": 365.09,
+            "time": 107.76,
+            "delay_prob": 0.08,
+            "congestion": 0.04,
+            "geopolitical": 0.42
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "NYC",
+            "cost": 550.09,
+            "time": 112.89,
+            "delay_prob": 0.22,
+            "congestion": 0.18,
+            "geopolitical": 0.04
+          }
+        ],
+        "total_cost": 915.1800000000001,
+        "total_time": 220.65,
+        "delay_prob": 0.15,
+        "risk_score": 0.158
+      }
+    ]
+  },
+  {
+    "shipment_id": "4ad4a8c4-08d3-47c0-8df6-4209f31a2364",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "cbda575a-ef47-44d4-b8fe-fa8b575adb3d",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "DXB",
+            "cost": 1053.3,
+            "time": 50.02,
+            "delay_prob": 0.28,
+            "congestion": 0.4,
+            "geopolitical": 0.3
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 1167.02,
+            "time": 82.11,
+            "delay_prob": 0.04,
+            "congestion": 0.41,
+            "geopolitical": 0.33
+          }
+        ],
+        "total_cost": 2220.3199999999997,
+        "total_time": 132.13,
+        "delay_prob": 0.16,
+        "risk_score": 0.24000000000000002
+      },
+      {
+        "route_id": "d5e77703-d8af-468f-a609-60a20d8de8c8",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "LON",
+            "cost": 152.08,
+            "time": 193.6,
+            "delay_prob": 0.22,
+            "congestion": 0.09,
+            "geopolitical": 0.41
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 750.52,
+            "time": 146.14,
+            "delay_prob": 0.12,
+            "congestion": 0.09,
+            "geopolitical": 0.24
+          }
+        ],
+        "total_cost": 902.6,
+        "total_time": 339.74,
+        "delay_prob": 0.16999999999999998,
+        "risk_score": 0.185
+      },
+      {
+        "route_id": "801ccceb-f125-4c1e-832c-78bef9331fa9",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "SIN",
+            "cost": 1062.34,
+            "time": 189.07,
+            "delay_prob": 0.14,
+            "congestion": 0.16,
+            "geopolitical": 0.41
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "SIN",
+            "cost": 922.41,
+            "time": 237.95,
+            "delay_prob": 0.21,
+            "congestion": 0.46,
+            "geopolitical": 0.26
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 936.36,
+            "time": 132.45,
+            "delay_prob": 0.01,
+            "congestion": 0.34,
+            "geopolitical": 0.02
+          },
+          {
+            "from_location": "LON",
+            "to_location": "NYC",
+            "cost": 1476.42,
+            "time": 13.53,
+            "delay_prob": 0.2,
+            "congestion": 0.41,
+            "geopolitical": 0.03
+          }
+        ],
+        "total_cost": 4397.53,
+        "total_time": 573.0,
+        "delay_prob": 0.14,
+        "risk_score": 0.18850000000000003
+      },
+      {
+        "route_id": "cc059ba3-13ef-4977-96ec-3dcb84759e01",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "DXB",
+            "cost": 731.33,
+            "time": 136.71,
+            "delay_prob": 0.13,
+            "congestion": 0.09,
+            "geopolitical": 0.13
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "NYC",
+            "cost": 1934.98,
+            "time": 224.03,
+            "delay_prob": 0.29,
+            "congestion": 0.38,
+            "geopolitical": 0.26
+          }
+        ],
+        "total_cost": 2666.31,
+        "total_time": 360.74,
+        "delay_prob": 0.21,
+        "risk_score": 0.212
+      }
+    ]
+  },
+  {
+    "shipment_id": "feed8620-96da-41ee-8b87-960c00b34d81",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "83ece525-0013-4600-a676-5684c3aef5e4",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 349.33,
+            "time": 191.31,
+            "delay_prob": 0.01,
+            "congestion": 0.48,
+            "geopolitical": 0.27
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "DXB",
+            "cost": 1307.65,
+            "time": 165.8,
+            "delay_prob": 0.21,
+            "congestion": 0.34,
+            "geopolitical": 0.23
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 1630.11,
+            "time": 224.49,
+            "delay_prob": 0.25,
+            "congestion": 0.05,
+            "geopolitical": 0.1
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 1071.44,
+            "time": 84.25,
+            "delay_prob": 0.21,
+            "congestion": 0.06,
+            "geopolitical": 0.09
+          }
+        ],
+        "total_cost": 4358.53,
+        "total_time": 665.85,
+        "delay_prob": 0.16999999999999998,
+        "risk_score": 0.183
+      },
+      {
+        "route_id": "d28af7c1-5af7-468e-b806-0116b029b54f",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 363.7,
+            "time": 230.5,
+            "delay_prob": 0.09,
+            "congestion": 0.15,
+            "geopolitical": 0.37
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 264.81,
+            "time": 74.89,
+            "delay_prob": 0.28,
+            "congestion": 0.17,
+            "geopolitical": 0.27
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "NYC",
+            "cost": 1901.05,
+            "time": 149.51,
+            "delay_prob": 0.12,
+            "congestion": 0.04,
+            "geopolitical": 0.01
+          }
+        ],
+        "total_cost": 2529.56,
+        "total_time": 454.9,
+        "delay_prob": 0.16333333333333333,
+        "risk_score": 0.16533333333333333
+      },
+      {
+        "route_id": "423e5e18-128a-4d53-a93e-73c0068084de",
+        "legs": [
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 934.36,
+            "time": 56.23,
+            "delay_prob": 0.11,
+            "congestion": 0.38,
+            "geopolitical": 0.1
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 1387.41,
+            "time": 232.12,
+            "delay_prob": 0.08,
+            "congestion": 0.08,
+            "geopolitical": 0.4
+          }
+        ],
+        "total_cost": 2321.77,
+        "total_time": 288.35,
+        "delay_prob": 0.095,
+        "risk_score": 0.15300000000000002
+      }
+    ]
+  },
+  {
+    "shipment_id": "13084447-9b44-4459-a243-d5eadc9bf7cd",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "5189682c-4fe3-4467-9f0a-542fca8d5090",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 1955.57,
+            "time": 190.43,
+            "delay_prob": 0.29,
+            "congestion": 0.01,
+            "geopolitical": 0.31
+          },
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 1125.41,
+            "time": 162.43,
+            "delay_prob": 0.24,
+            "congestion": 0.28,
+            "geopolitical": 0.32
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "NYC",
+            "cost": 108.98,
+            "time": 237.2,
+            "delay_prob": 0.24,
+            "congestion": 0.15,
+            "geopolitical": 0.32
+          }
+        ],
+        "total_cost": 3189.96,
+        "total_time": 590.06,
+        "delay_prob": 0.25666666666666665,
+        "risk_score": 0.2466666666666667
+      },
+      {
+        "route_id": "9954ff0c-8f43-4e7e-a562-502b6c8d11b5",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "NYC",
+            "cost": 891.72,
+            "time": 105.9,
+            "delay_prob": 0.27,
+            "congestion": 0.18,
+            "geopolitical": 0.32
+          },
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 1837.67,
+            "time": 32.03,
+            "delay_prob": 0.03,
+            "congestion": 0.12,
+            "geopolitical": 0.19
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 996.12,
+            "time": 238.95,
+            "delay_prob": 0.04,
+            "congestion": 0.08,
+            "geopolitical": 0.04
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1261.09,
+            "time": 187.86,
+            "delay_prob": 0.05,
+            "congestion": 0.39,
+            "geopolitical": 0.5
+          }
+        ],
+        "total_cost": 4986.6,
+        "total_time": 564.74,
+        "delay_prob": 0.0975,
+        "risk_score": 0.14950000000000002
+      },
+      {
+        "route_id": "376113fd-2e6b-4f16-95bc-cb3c8ae54754",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 1778.31,
+            "time": 84.09,
+            "delay_prob": 0.08,
+            "congestion": 0.03,
+            "geopolitical": 0.27
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "NYC",
+            "cost": 1187.33,
+            "time": 18.87,
+            "delay_prob": 0.22,
+            "congestion": 0.32,
+            "geopolitical": 0.15
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1583.17,
+            "time": 223.47,
+            "delay_prob": 0.09,
+            "congestion": 0.35,
+            "geopolitical": 0.06
+          }
+        ],
+        "total_cost": 4548.8099999999995,
+        "total_time": 326.43,
+        "delay_prob": 0.13,
+        "risk_score": 0.15666666666666668
+      },
+      {
+        "route_id": "8ebf696f-23d6-4f45-8fc4-cd3708acdec8",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "NYC",
+            "cost": 908.09,
+            "time": 70.87,
+            "delay_prob": 0.14,
+            "congestion": 0.02,
+            "geopolitical": 0.26
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 611.2,
+            "time": 224.7,
+            "delay_prob": 0.25,
+            "congestion": 0.35,
+            "geopolitical": 0.01
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "NYC",
+            "cost": 1300.31,
+            "time": 167.64,
+            "delay_prob": 0.2,
+            "congestion": 0.41,
+            "geopolitical": 0.18
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "LON",
+            "cost": 192.07,
+            "time": 46.24,
+            "delay_prob": 0.05,
+            "congestion": 0.12,
+            "geopolitical": 0.25
+          }
+        ],
+        "total_cost": 3011.67,
+        "total_time": 509.45,
+        "delay_prob": 0.16,
+        "risk_score": 0.17600000000000002
+      }
+    ]
+  },
+  {
+    "shipment_id": "c35dd0d0-f382-442d-bff5-8d35905df500",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "d68bb587-2914-4158-9cbb-498a375a36c9",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "DXB",
+            "cost": 578.41,
+            "time": 41.78,
+            "delay_prob": 0.2,
+            "congestion": 0.27,
+            "geopolitical": 0.46
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 747.35,
+            "time": 218.32,
+            "delay_prob": 0.17,
+            "congestion": 0.46,
+            "geopolitical": 0.04
+          }
+        ],
+        "total_cost": 1325.76,
+        "total_time": 260.1,
+        "delay_prob": 0.185,
+        "risk_score": 0.23399999999999999
+      },
+      {
+        "route_id": "0a43516b-ec04-4b33-8d57-8fc46ec99a38",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 1679.93,
+            "time": 114.25,
+            "delay_prob": 0.01,
+            "congestion": 0.18,
+            "geopolitical": 0.1
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 1304.72,
+            "time": 216.41,
+            "delay_prob": 0.17,
+            "congestion": 0.15,
+            "geopolitical": 0.31
+          },
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 1846.11,
+            "time": 223.4,
+            "delay_prob": 0.11,
+            "congestion": 0.1,
+            "geopolitical": 0.21
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "SIN",
+            "cost": 1812.89,
+            "time": 196.66,
+            "delay_prob": 0.16,
+            "congestion": 0.27,
+            "geopolitical": 0.19
+          }
+        ],
+        "total_cost": 6643.65,
+        "total_time": 750.72,
+        "delay_prob": 0.1125,
+        "risk_score": 0.14300000000000002
+      },
+      {
+        "route_id": "5ae18330-b580-4532-8882-7706860c844e",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 175.8,
+            "time": 201.46,
+            "delay_prob": 0.11,
+            "congestion": 0.5,
+            "geopolitical": 0.36
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 1628.05,
+            "time": 232.64,
+            "delay_prob": 0.05,
+            "congestion": 0.45,
+            "geopolitical": 0.45
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 1464.39,
+            "time": 134.24,
+            "delay_prob": 0.2,
+            "congestion": 0.11,
+            "geopolitical": 0.11
+          },
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 217.71,
+            "time": 27.01,
+            "delay_prob": 0.22,
+            "congestion": 0.41,
+            "geopolitical": 0.06
+          }
+        ],
+        "total_cost": 3485.9500000000003,
+        "total_time": 595.35,
+        "delay_prob": 0.14500000000000002,
+        "risk_score": 0.20950000000000002
+      },
+      {
+        "route_id": "cce704d7-4cdc-42a8-8765-cd7dfa9072fa",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "DXB",
+            "cost": 500.88,
+            "time": 230.76,
+            "delay_prob": 0.25,
+            "congestion": 0.49,
+            "geopolitical": 0.21
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "SIN",
+            "cost": 352.44,
+            "time": 143.48,
+            "delay_prob": 0.13,
+            "congestion": 0.05,
+            "geopolitical": 0.43
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 1570.78,
+            "time": 191.69,
+            "delay_prob": 0.03,
+            "congestion": 0.49,
+            "geopolitical": 0.16
+          }
+        ],
+        "total_cost": 2424.1,
+        "total_time": 565.93,
+        "delay_prob": 0.1366666666666667,
+        "risk_score": 0.20400000000000001
+      }
+    ]
+  },
+  {
+    "shipment_id": "99514068-ad31-4ae8-9b2a-1b96161e6c90",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "e63c568a-35df-4421-901d-f0126a8897dc",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 1170.48,
+            "time": 136.68,
+            "delay_prob": 0.13,
+            "congestion": 0.24,
+            "geopolitical": 0.15
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 1344.93,
+            "time": 107.45,
+            "delay_prob": 0.05,
+            "congestion": 0.11,
+            "geopolitical": 0.25
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 962.86,
+            "time": 45.24,
+            "delay_prob": 0.03,
+            "congestion": 0.46,
+            "geopolitical": 0.38
+          }
+        ],
+        "total_cost": 3478.27,
+        "total_time": 289.37,
+        "delay_prob": 0.07,
+        "risk_score": 0.14800000000000002
+      },
+      {
+        "route_id": "6559585c-51db-4d48-9076-b79f43309aad",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "NYC",
+            "cost": 1807.17,
+            "time": 105.49,
+            "delay_prob": 0.06,
+            "congestion": 0.5,
+            "geopolitical": 0.01
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 124.08,
+            "time": 224.81,
+            "delay_prob": 0.12,
+            "congestion": 0.12,
+            "geopolitical": 0.36
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "NYC",
+            "cost": 1919.61,
+            "time": 112.07,
+            "delay_prob": 0.2,
+            "congestion": 0.1,
+            "geopolitical": 0.03
+          },
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 1068.45,
+            "time": 102.19,
+            "delay_prob": 0.04,
+            "congestion": 0.02,
+            "geopolitical": 0.18
+          }
+        ],
+        "total_cost": 4919.31,
+        "total_time": 544.56,
+        "delay_prob": 0.105,
+        "risk_score": 0.129
+      },
+      {
+        "route_id": "992c5452-1484-4254-b481-a58c371114aa",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1054.21,
+            "time": 126.2,
+            "delay_prob": 0.02,
+            "congestion": 0.15,
+            "geopolitical": 0.16
+          },
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 435.72,
+            "time": 40.13,
+            "delay_prob": 0.18,
+            "congestion": 0.05,
+            "geopolitical": 0.04
+          }
+        ],
+        "total_cost": 1489.93,
+        "total_time": 166.33,
+        "delay_prob": 0.09999999999999999,
+        "risk_score": 0.09999999999999999
+      }
+    ]
+  },
+  {
+    "shipment_id": "26ef57bd-0298-418c-a883-5a71811cec47",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "a21b4977-da05-4ceb-82de-483828b4c95d",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "SIN",
+            "cost": 1270.93,
+            "time": 125.97,
+            "delay_prob": 0.07,
+            "congestion": 0.29,
+            "geopolitical": 0.35
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 927.58,
+            "time": 118.95,
+            "delay_prob": 0.12,
+            "congestion": 0.19,
+            "geopolitical": 0.36
+          }
+        ],
+        "total_cost": 2198.51,
+        "total_time": 244.92000000000002,
+        "delay_prob": 0.095,
+        "risk_score": 0.176
+      },
+      {
+        "route_id": "bcb2e5e9-ca72-42e4-acc5-6dd424f5cb40",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "NYC",
+            "cost": 602.17,
+            "time": 71.31,
+            "delay_prob": 0.05,
+            "congestion": 0.16,
+            "geopolitical": 0.08
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 1798.24,
+            "time": 10.56,
+            "delay_prob": 0.25,
+            "congestion": 0.43,
+            "geopolitical": 0.09
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 1116.04,
+            "time": 194.46,
+            "delay_prob": 0.17,
+            "congestion": 0.34,
+            "geopolitical": 0.15
+          }
+        ],
+        "total_cost": 3516.45,
+        "total_time": 276.33,
+        "delay_prob": 0.15666666666666668,
+        "risk_score": 0.17733333333333334
+      },
+      {
+        "route_id": "c6ce9594-75bc-4413-83c1-8701cfbdad5b",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 618.77,
+            "time": 45.43,
+            "delay_prob": 0.12,
+            "congestion": 0.37,
+            "geopolitical": 0.17
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "HKG",
+            "cost": 839.12,
+            "time": 14.43,
+            "delay_prob": 0.02,
+            "congestion": 0.42,
+            "geopolitical": 0.49
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "NYC",
+            "cost": 608.67,
+            "time": 155.09,
+            "delay_prob": 0.2,
+            "congestion": 0.21,
+            "geopolitical": 0.34
+          }
+        ],
+        "total_cost": 2066.56,
+        "total_time": 214.95,
+        "delay_prob": 0.11333333333333334,
+        "risk_score": 0.2013333333333333
+      }
+    ]
+  },
+  {
+    "shipment_id": "2f28cdc7-7b53-4866-b9d4-254e4f66bead",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "87f51a40-35c4-4eaf-8357-914c56f6bc9e",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 981.36,
+            "time": 82.79,
+            "delay_prob": 0.11,
+            "congestion": 0.27,
+            "geopolitical": 0.07
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "NYC",
+            "cost": 1241.63,
+            "time": 117.14,
+            "delay_prob": 0.23,
+            "congestion": 0.44,
+            "geopolitical": 0.13
+          }
+        ],
+        "total_cost": 2222.9900000000002,
+        "total_time": 199.93,
+        "delay_prob": 0.17,
+        "risk_score": 0.193
+      },
+      {
+        "route_id": "d80f3375-5371-42f2-a21b-96192ac3d536",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 1288.52,
+            "time": 200.17,
+            "delay_prob": 0.03,
+            "congestion": 0.47,
+            "geopolitical": 0.46
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1812.58,
+            "time": 119.79,
+            "delay_prob": 0.05,
+            "congestion": 0.45,
+            "geopolitical": 0.48
+          }
+        ],
+        "total_cost": 3101.1,
+        "total_time": 319.96,
+        "delay_prob": 0.04,
+        "risk_score": 0.21
+      },
+      {
+        "route_id": "bacd056d-892c-44cc-9da4-efff7fa371ea",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 1221.15,
+            "time": 187.86,
+            "delay_prob": 0.07,
+            "congestion": 0.07,
+            "geopolitical": 0.44
+          },
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 751.92,
+            "time": 112.43,
+            "delay_prob": 0.1,
+            "congestion": 0.25,
+            "geopolitical": 0.0
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "SIN",
+            "cost": 822.21,
+            "time": 29.42,
+            "delay_prob": 0.13,
+            "congestion": 0.43,
+            "geopolitical": 0.37
+          }
+        ],
+        "total_cost": 2795.28,
+        "total_time": 329.71000000000004,
+        "delay_prob": 0.10000000000000002,
+        "risk_score": 0.16400000000000003
+      }
+    ]
+  },
+  {
+    "shipment_id": "b9fa879a-68a9-4bc5-bc96-6b3f021eee1c",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "990e39d3-9fb1-49ba-92d0-03196ea1dc10",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "SIN",
+            "cost": 1089.11,
+            "time": 121.14,
+            "delay_prob": 0.16,
+            "congestion": 0.26,
+            "geopolitical": 0.05
+          },
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 494.0,
+            "time": 157.18,
+            "delay_prob": 0.29,
+            "congestion": 0.2,
+            "geopolitical": 0.39
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "DXB",
+            "cost": 520.22,
+            "time": 155.08,
+            "delay_prob": 0.01,
+            "congestion": 0.42,
+            "geopolitical": 0.02
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "DXB",
+            "cost": 1988.8,
+            "time": 176.87,
+            "delay_prob": 0.08,
+            "congestion": 0.25,
+            "geopolitical": 0.11
+          }
+        ],
+        "total_cost": 4092.13,
+        "total_time": 610.27,
+        "delay_prob": 0.135,
+        "risk_score": 0.166
+      },
+      {
+        "route_id": "237478cb-1d02-41a2-83c7-0550fc758ab9",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1780.61,
+            "time": 228.4,
+            "delay_prob": 0.27,
+            "congestion": 0.25,
+            "geopolitical": 0.32
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "DXB",
+            "cost": 1261.43,
+            "time": 179.58,
+            "delay_prob": 0.18,
+            "congestion": 0.5,
+            "geopolitical": 0.25
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "LON",
+            "cost": 434.68,
+            "time": 219.07,
+            "delay_prob": 0.2,
+            "congestion": 0.43,
+            "geopolitical": 0.07
+          }
+        ],
+        "total_cost": 3476.72,
+        "total_time": 627.05,
+        "delay_prob": 0.21666666666666667,
+        "risk_score": 0.25133333333333335
+      },
+      {
+        "route_id": "d225f15c-8155-4971-bace-37904fbb4bef",
+        "legs": [
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 1832.62,
+            "time": 100.06,
+            "delay_prob": 0.27,
+            "congestion": 0.04,
+            "geopolitical": 0.26
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1668.71,
+            "time": 118.55,
+            "delay_prob": 0.14,
+            "congestion": 0.42,
+            "geopolitical": 0.14
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 1064.59,
+            "time": 101.63,
+            "delay_prob": 0.2,
+            "congestion": 0.45,
+            "geopolitical": 0.32
+          }
+        ],
+        "total_cost": 4565.92,
+        "total_time": 320.24,
+        "delay_prob": 0.20333333333333337,
+        "risk_score": 0.2306666666666667
+      },
+      {
+        "route_id": "370ecbed-109d-4c29-aa6c-b5d13c585925",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "DXB",
+            "cost": 1901.48,
+            "time": 39.2,
+            "delay_prob": 0.07,
+            "congestion": 0.43,
+            "geopolitical": 0.1
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 625.85,
+            "time": 84.11,
+            "delay_prob": 0.14,
+            "congestion": 0.32,
+            "geopolitical": 0.3
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 840.41,
+            "time": 167.83,
+            "delay_prob": 0.12,
+            "congestion": 0.03,
+            "geopolitical": 0.44
+          },
+          {
+            "from_location": "LON",
+            "to_location": "NYC",
+            "cost": 1963.35,
+            "time": 132.57,
+            "delay_prob": 0.19,
+            "congestion": 0.04,
+            "geopolitical": 0.48
+          }
+        ],
+        "total_cost": 5331.09,
+        "total_time": 423.71000000000004,
+        "delay_prob": 0.13,
+        "risk_score": 0.185
+      },
+      {
+        "route_id": "672bf2eb-aa73-4635-897d-3911f42482da",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "LON",
+            "cost": 767.45,
+            "time": 48.67,
+            "delay_prob": 0.21,
+            "congestion": 0.23,
+            "geopolitical": 0.13
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "SIN",
+            "cost": 1939.86,
+            "time": 49.75,
+            "delay_prob": 0.16,
+            "congestion": 0.47,
+            "geopolitical": 0.0
+          },
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 522.43,
+            "time": 43.95,
+            "delay_prob": 0.17,
+            "congestion": 0.19,
+            "geopolitical": 0.22
+          }
+        ],
+        "total_cost": 3229.74,
+        "total_time": 142.37,
+        "delay_prob": 0.18000000000000002,
+        "risk_score": 0.1906666666666667
+      }
+    ]
+  },
+  {
+    "shipment_id": "aeb38952-5200-4e95-94c7-dccb687c54d5",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "6246bfc3-18b1-4d48-9f4f-81758a349bdf",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "DXB",
+            "cost": 989.33,
+            "time": 183.13,
+            "delay_prob": 0.14,
+            "congestion": 0.2,
+            "geopolitical": 0.35
+          },
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 111.4,
+            "time": 26.19,
+            "delay_prob": 0.18,
+            "congestion": 0.19,
+            "geopolitical": 0.23
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "HKG",
+            "cost": 780.53,
+            "time": 166.05,
+            "delay_prob": 0.27,
+            "congestion": 0.07,
+            "geopolitical": 0.32
+          }
+        ],
+        "total_cost": 1881.26,
+        "total_time": 375.37,
+        "delay_prob": 0.19666666666666668,
+        "risk_score": 0.20866666666666667
+      },
+      {
+        "route_id": "8cf37823-eaa5-478e-a357-5a90624607a1",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "NYC",
+            "cost": 883.98,
+            "time": 194.16,
+            "delay_prob": 0.13,
+            "congestion": 0.02,
+            "geopolitical": 0.44
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 1532.66,
+            "time": 130.5,
+            "delay_prob": 0.23,
+            "congestion": 0.27,
+            "geopolitical": 0.24
+          }
+        ],
+        "total_cost": 2416.6400000000003,
+        "total_time": 324.65999999999997,
+        "delay_prob": 0.18,
+        "risk_score": 0.20500000000000002
+      },
+      {
+        "route_id": "0b146cf7-6f02-48b4-82ad-189eb3335d4f",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 302.77,
+            "time": 176.59,
+            "delay_prob": 0.28,
+            "congestion": 0.26,
+            "geopolitical": 0.19
+          },
+          {
+            "from_location": "LON",
+            "to_location": "DXB",
+            "cost": 1777.35,
+            "time": 165.88,
+            "delay_prob": 0.18,
+            "congestion": 0.09,
+            "geopolitical": 0.47
+          },
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 950.5,
+            "time": 162.37,
+            "delay_prob": 0.19,
+            "congestion": 0.43,
+            "geopolitical": 0.36
+          }
+        ],
+        "total_cost": 3030.62,
+        "total_time": 504.84000000000003,
+        "delay_prob": 0.21666666666666667,
+        "risk_score": 0.25
+      }
+    ]
+  },
+  {
+    "shipment_id": "2ca6d461-bd93-4cc0-9683-8411b6de8696",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "0be0b3a7-3171-4010-affb-9fc12b99bd0a",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 1309.37,
+            "time": 70.16,
+            "delay_prob": 0.24,
+            "congestion": 0.1,
+            "geopolitical": 0.37
+          },
+          {
+            "from_location": "LON",
+            "to_location": "DXB",
+            "cost": 972.55,
+            "time": 34.15,
+            "delay_prob": 0.1,
+            "congestion": 0.18,
+            "geopolitical": 0.35
+          }
+        ],
+        "total_cost": 2281.92,
+        "total_time": 104.31,
+        "delay_prob": 0.16999999999999998,
+        "risk_score": 0.202
+      },
+      {
+        "route_id": "6edf2f17-7243-4c32-b7e8-9640d9354788",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "NYC",
+            "cost": 547.5,
+            "time": 163.22,
+            "delay_prob": 0.14,
+            "congestion": 0.36,
+            "geopolitical": 0.35
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "SIN",
+            "cost": 285.25,
+            "time": 11.66,
+            "delay_prob": 0.28,
+            "congestion": 0.29,
+            "geopolitical": 0.11
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "SIN",
+            "cost": 1630.98,
+            "time": 57.51,
+            "delay_prob": 0.1,
+            "congestion": 0.29,
+            "geopolitical": 0.03
+          }
+        ],
+        "total_cost": 2463.73,
+        "total_time": 232.39,
+        "delay_prob": 0.17333333333333334,
+        "risk_score": 0.19933333333333333
+      },
+      {
+        "route_id": "d8055b24-d30d-49dc-8ecd-50fde65f9939",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 515.49,
+            "time": 174.81,
+            "delay_prob": 0.04,
+            "congestion": 0.16,
+            "geopolitical": 0.14
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "NYC",
+            "cost": 609.73,
+            "time": 130.24,
+            "delay_prob": 0.21,
+            "congestion": 0.0,
+            "geopolitical": 0.01
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "NYC",
+            "cost": 196.64,
+            "time": 104.47,
+            "delay_prob": 0.11,
+            "congestion": 0.4,
+            "geopolitical": 0.17
+          },
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 1427.97,
+            "time": 193.7,
+            "delay_prob": 0.02,
+            "congestion": 0.3,
+            "geopolitical": 0.01
+          }
+        ],
+        "total_cost": 2749.83,
+        "total_time": 603.22,
+        "delay_prob": 0.095,
+        "risk_score": 0.1165
+      },
+      {
+        "route_id": "109f70f6-6991-43cd-9a16-5648f89f3c04",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "NYC",
+            "cost": 472.94,
+            "time": 154.34,
+            "delay_prob": 0.06,
+            "congestion": 0.13,
+            "geopolitical": 0.19
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "NYC",
+            "cost": 238.71,
+            "time": 150.57,
+            "delay_prob": 0.28,
+            "congestion": 0.01,
+            "geopolitical": 0.22
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 792.22,
+            "time": 157.64,
+            "delay_prob": 0.27,
+            "congestion": 0.01,
+            "geopolitical": 0.47
+          }
+        ],
+        "total_cost": 1503.8700000000001,
+        "total_time": 462.54999999999995,
+        "delay_prob": 0.20333333333333337,
+        "risk_score": 0.19066666666666668
+      }
+    ]
+  },
+  {
+    "shipment_id": "3e50d006-3baa-477b-b5e3-980024a1d53d",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "6aef34af-b9f0-4c53-971e-e249e201c38c",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "SIN",
+            "cost": 1941.49,
+            "time": 15.95,
+            "delay_prob": 0.11,
+            "congestion": 0.33,
+            "geopolitical": 0.16
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "NYC",
+            "cost": 488.11,
+            "time": 191.81,
+            "delay_prob": 0.2,
+            "congestion": 0.14,
+            "geopolitical": 0.24
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 1272.48,
+            "time": 44.78,
+            "delay_prob": 0.01,
+            "congestion": 0.17,
+            "geopolitical": 0.34
+          }
+        ],
+        "total_cost": 3702.08,
+        "total_time": 252.54,
+        "delay_prob": 0.10666666666666667,
+        "risk_score": 0.15600000000000003
+      },
+      {
+        "route_id": "598966c4-3099-4896-a6a3-d687ccfec3e9",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "DXB",
+            "cost": 862.6,
+            "time": 113.13,
+            "delay_prob": 0.3,
+            "congestion": 0.27,
+            "geopolitical": 0.32
+          },
+          {
+            "from_location": "LON",
+            "to_location": "NYC",
+            "cost": 687.34,
+            "time": 197.09,
+            "delay_prob": 0.01,
+            "congestion": 0.42,
+            "geopolitical": 0.09
+          },
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 1720.45,
+            "time": 120.7,
+            "delay_prob": 0.15,
+            "congestion": 0.36,
+            "geopolitical": 0.02
+          }
+        ],
+        "total_cost": 3270.3900000000003,
+        "total_time": 430.92,
+        "delay_prob": 0.15333333333333332,
+        "risk_score": 0.19066666666666665
+      },
+      {
+        "route_id": "1e62fc9e-ee58-4be4-a07b-21f974c1c28f",
+        "legs": [
+          {
+            "from_location": "SIN",
+            "to_location": "NYC",
+            "cost": 282.41,
+            "time": 190.96,
+            "delay_prob": 0.15,
+            "congestion": 0.05,
+            "geopolitical": 0.31
+          },
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 427.14,
+            "time": 144.34,
+            "delay_prob": 0.15,
+            "congestion": 0.12,
+            "geopolitical": 0.43
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "DXB",
+            "cost": 1183.17,
+            "time": 192.59,
+            "delay_prob": 0.25,
+            "congestion": 0.11,
+            "geopolitical": 0.24
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 831.99,
+            "time": 234.48,
+            "delay_prob": 0.22,
+            "congestion": 0.23,
+            "geopolitical": 0.35
+          }
+        ],
+        "total_cost": 2724.71,
+        "total_time": 762.37,
+        "delay_prob": 0.1925,
+        "risk_score": 0.2075
+      }
+    ]
+  },
+  {
+    "shipment_id": "571cfa81-249d-4ca4-b068-da356d4af07b",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "1074af3c-7d29-4d7a-b504-56566349e375",
+        "legs": [
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 922.63,
+            "time": 133.86,
+            "delay_prob": 0.24,
+            "congestion": 0.11,
+            "geopolitical": 0.2
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "NYC",
+            "cost": 1573.35,
+            "time": 185.48,
+            "delay_prob": 0.16,
+            "congestion": 0.04,
+            "geopolitical": 0.2
+          },
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 1308.56,
+            "time": 24.83,
+            "delay_prob": 0.24,
+            "congestion": 0.23,
+            "geopolitical": 0.11
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 1800.85,
+            "time": 53.77,
+            "delay_prob": 0.05,
+            "congestion": 0.14,
+            "geopolitical": 0.23
+          }
+        ],
+        "total_cost": 5605.389999999999,
+        "total_time": 397.94,
+        "delay_prob": 0.1725,
+        "risk_score": 0.1665
+      },
+      {
+        "route_id": "62e7b393-dc65-4bbf-8586-d6ce1f418fdd",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 1906.1,
+            "time": 80.92,
+            "delay_prob": 0.28,
+            "congestion": 0.11,
+            "geopolitical": 0.34
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "DXB",
+            "cost": 418.55,
+            "time": 120.53,
+            "delay_prob": 0.17,
+            "congestion": 0.18,
+            "geopolitical": 0.46
+          }
+        ],
+        "total_cost": 2324.65,
+        "total_time": 201.45,
+        "delay_prob": 0.22500000000000003,
+        "risk_score": 0.24400000000000002
+      },
+      {
+        "route_id": "c3c02184-a0e4-4267-b13e-65efe64eb8c4",
+        "legs": [
+          {
+            "from_location": "SIN",
+            "to_location": "NYC",
+            "cost": 1337.94,
+            "time": 20.38,
+            "delay_prob": 0.05,
+            "congestion": 0.16,
+            "geopolitical": 0.36
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 1864.23,
+            "time": 20.17,
+            "delay_prob": 0.05,
+            "congestion": 0.13,
+            "geopolitical": 0.37
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 185.04,
+            "time": 122.58,
+            "delay_prob": 0.13,
+            "congestion": 0.46,
+            "geopolitical": 0.34
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 146.91,
+            "time": 188.25,
+            "delay_prob": 0.08,
+            "congestion": 0.33,
+            "geopolitical": 0.34
+          }
+        ],
+        "total_cost": 3534.12,
+        "total_time": 351.38,
+        "delay_prob": 0.0775,
+        "risk_score": 0.171
+      }
+    ]
+  },
+  {
+    "shipment_id": "5c9fcc50-7aae-42e5-a24f-e966133582a1",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "2225392a-bfd2-4d6d-8b7e-e8a76bf272ca",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "LON",
+            "cost": 710.39,
+            "time": 169.28,
+            "delay_prob": 0.24,
+            "congestion": 0.07,
+            "geopolitical": 0.18
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "DXB",
+            "cost": 188.91,
+            "time": 66.15,
+            "delay_prob": 0.24,
+            "congestion": 0.47,
+            "geopolitical": 0.09
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 420.72,
+            "time": 81.19,
+            "delay_prob": 0.28,
+            "congestion": 0.28,
+            "geopolitical": 0.19
+          }
+        ],
+        "total_cost": 1320.02,
+        "total_time": 316.62,
+        "delay_prob": 0.25333333333333335,
+        "risk_score": 0.23733333333333334
+      },
+      {
+        "route_id": "9117bcdf-02fc-4321-af4b-4544a608fcce",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 1838.95,
+            "time": 224.07,
+            "delay_prob": 0.22,
+            "congestion": 0.05,
+            "geopolitical": 0.43
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "DXB",
+            "cost": 354.92,
+            "time": 169.25,
+            "delay_prob": 0.1,
+            "congestion": 0.3,
+            "geopolitical": 0.23
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 917.11,
+            "time": 167.4,
+            "delay_prob": 0.07,
+            "congestion": 0.45,
+            "geopolitical": 0.04
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 1229.54,
+            "time": 119.81,
+            "delay_prob": 0.19,
+            "congestion": 0.25,
+            "geopolitical": 0.29
+          }
+        ],
+        "total_cost": 4340.52,
+        "total_time": 680.53,
+        "delay_prob": 0.14500000000000002,
+        "risk_score": 0.189
+      },
+      {
+        "route_id": "fbf646e5-4b26-4d5f-b9e1-e0df51c6818b",
+        "legs": [
+          {
+            "from_location": "SIN",
+            "to_location": "HKG",
+            "cost": 1749.62,
+            "time": 234.66,
+            "delay_prob": 0.17,
+            "congestion": 0.38,
+            "geopolitical": 0.04
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "NYC",
+            "cost": 1617.96,
+            "time": 90.98,
+            "delay_prob": 0.15,
+            "congestion": 0.04,
+            "geopolitical": 0.5
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 1794.46,
+            "time": 72.73,
+            "delay_prob": 0.13,
+            "congestion": 0.1,
+            "geopolitical": 0.2
+          },
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 767.88,
+            "time": 165.66,
+            "delay_prob": 0.3,
+            "congestion": 0.35,
+            "geopolitical": 0.14
+          }
+        ],
+        "total_cost": 5929.92,
+        "total_time": 564.03,
+        "delay_prob": 0.1875,
+        "risk_score": 0.2
+      },
+      {
+        "route_id": "a1893ede-7ea3-4ca1-a93c-d536a847e1dd",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 750.53,
+            "time": 195.61,
+            "delay_prob": 0.17,
+            "congestion": 0.32,
+            "geopolitical": 0.06
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1512.44,
+            "time": 236.51,
+            "delay_prob": 0.09,
+            "congestion": 0.32,
+            "geopolitical": 0.47
+          },
+          {
+            "from_location": "LON",
+            "to_location": "DXB",
+            "cost": 529.38,
+            "time": 59.15,
+            "delay_prob": 0.1,
+            "congestion": 0.48,
+            "geopolitical": 0.35
+          }
+        ],
+        "total_cost": 2792.35,
+        "total_time": 491.27,
+        "delay_prob": 0.12,
+        "risk_score": 0.2053333333333333
+      }
+    ]
+  },
+  {
+    "shipment_id": "c61e5951-e8df-4878-8c2f-2b159ac71440",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "0a7b58d8-2e71-4f34-968e-60e98da6ef7b",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 1395.37,
+            "time": 202.81,
+            "delay_prob": 0.27,
+            "congestion": 0.07,
+            "geopolitical": 0.02
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 637.83,
+            "time": 65.45,
+            "delay_prob": 0.14,
+            "congestion": 0.11,
+            "geopolitical": 0.2
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 771.4,
+            "time": 236.66,
+            "delay_prob": 0.22,
+            "congestion": 0.29,
+            "geopolitical": 0.09
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1149.85,
+            "time": 99.5,
+            "delay_prob": 0.15,
+            "congestion": 0.29,
+            "geopolitical": 0.03
+          }
+        ],
+        "total_cost": 3954.45,
+        "total_time": 604.42,
+        "delay_prob": 0.195,
+        "risk_score": 0.172
+      },
+      {
+        "route_id": "acbaeaaa-5f0a-4d72-a6cb-faf71cd8cb58",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "NYC",
+            "cost": 206.58,
+            "time": 60.79,
+            "delay_prob": 0.28,
+            "congestion": 0.47,
+            "geopolitical": 0.47
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 716.25,
+            "time": 89.06,
+            "delay_prob": 0.26,
+            "congestion": 0.39,
+            "geopolitical": 0.43
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 500.57,
+            "time": 236.89,
+            "delay_prob": 0.05,
+            "congestion": 0.14,
+            "geopolitical": 0.24
+          }
+        ],
+        "total_cost": 1423.4,
+        "total_time": 386.74,
+        "delay_prob": 0.19666666666666668,
+        "risk_score": 0.26066666666666666
+      },
+      {
+        "route_id": "de76e7a7-fb36-4b66-bdd8-7c4601f32db0",
+        "legs": [
+          {
+            "from_location": "SIN",
+            "to_location": "DXB",
+            "cost": 186.87,
+            "time": 172.25,
+            "delay_prob": 0.14,
+            "congestion": 0.17,
+            "geopolitical": 0.14
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "HKG",
+            "cost": 1124.28,
+            "time": 98.32,
+            "delay_prob": 0.17,
+            "congestion": 0.15,
+            "geopolitical": 0.4
+          },
+          {
+            "from_location": "LON",
+            "to_location": "NYC",
+            "cost": 162.78,
+            "time": 177.01,
+            "delay_prob": 0.13,
+            "congestion": 0.16,
+            "geopolitical": 0.32
+          }
+        ],
+        "total_cost": 1473.93,
+        "total_time": 447.58,
+        "delay_prob": 0.1466666666666667,
+        "risk_score": 0.17733333333333334
+      },
+      {
+        "route_id": "24ee8e37-d9ce-48f8-a280-4710ff230281",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 207.47,
+            "time": 106.46,
+            "delay_prob": 0.11,
+            "congestion": 0.47,
+            "geopolitical": 0.1
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "NYC",
+            "cost": 884.48,
+            "time": 84.64,
+            "delay_prob": 0.26,
+            "congestion": 0.44,
+            "geopolitical": 0.06
+          }
+        ],
+        "total_cost": 1091.95,
+        "total_time": 191.1,
+        "delay_prob": 0.185,
+        "risk_score": 0.21800000000000003
+      }
+    ]
+  },
+  {
+    "shipment_id": "a913da2c-528f-4b4d-937b-cca8940b770f",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "84405fa3-64fe-46cf-8d1e-59b81223d4a7",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "SIN",
+            "cost": 1279.13,
+            "time": 54.81,
+            "delay_prob": 0.26,
+            "congestion": 0.24,
+            "geopolitical": 0.33
+          },
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 338.53,
+            "time": 156.88,
+            "delay_prob": 0.1,
+            "congestion": 0.49,
+            "geopolitical": 0.41
+          },
+          {
+            "from_location": "LON",
+            "to_location": "DXB",
+            "cost": 1686.63,
+            "time": 110.0,
+            "delay_prob": 0.08,
+            "congestion": 0.03,
+            "geopolitical": 0.47
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "HKG",
+            "cost": 294.15,
+            "time": 99.02,
+            "delay_prob": 0.16,
+            "congestion": 0.35,
+            "geopolitical": 0.23
+          }
+        ],
+        "total_cost": 3598.44,
+        "total_time": 420.71,
+        "delay_prob": 0.15,
+        "risk_score": 0.21749999999999997
+      },
+      {
+        "route_id": "2cb58b06-5de0-48b9-ad4c-c3440296adb1",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 1054.68,
+            "time": 169.05,
+            "delay_prob": 0.18,
+            "congestion": 0.09,
+            "geopolitical": 0.47
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "DXB",
+            "cost": 1819.14,
+            "time": 143.64,
+            "delay_prob": 0.22,
+            "congestion": 0.28,
+            "geopolitical": 0.37
+          }
+        ],
+        "total_cost": 2873.82,
+        "total_time": 312.69,
+        "delay_prob": 0.2,
+        "risk_score": 0.241
+      },
+      {
+        "route_id": "0b1fc64d-803d-43b3-bd31-c605604605f8",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "DXB",
+            "cost": 830.13,
+            "time": 29.86,
+            "delay_prob": 0.24,
+            "congestion": 0.14,
+            "geopolitical": 0.15
+          },
+          {
+            "from_location": "LON",
+            "to_location": "DXB",
+            "cost": 1755.83,
+            "time": 164.85,
+            "delay_prob": 0.11,
+            "congestion": 0.39,
+            "geopolitical": 0.41
+          }
+        ],
+        "total_cost": 2585.96,
+        "total_time": 194.70999999999998,
+        "delay_prob": 0.175,
+        "risk_score": 0.214
+      },
+      {
+        "route_id": "32675e08-d589-4fda-ad1d-3edba4a7a3b7",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 725.52,
+            "time": 228.46,
+            "delay_prob": 0.1,
+            "congestion": 0.2,
+            "geopolitical": 0.12
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "NYC",
+            "cost": 436.6,
+            "time": 130.25,
+            "delay_prob": 0.06,
+            "congestion": 0.13,
+            "geopolitical": 0.15
+          },
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 875.19,
+            "time": 109.2,
+            "delay_prob": 0.27,
+            "congestion": 0.41,
+            "geopolitical": 0.08
+          }
+        ],
+        "total_cost": 2037.31,
+        "total_time": 467.91,
+        "delay_prob": 0.14333333333333334,
+        "risk_score": 0.15866666666666668
+      },
+      {
+        "route_id": "8f899b2d-39d9-4b57-9f33-c76a352ba5d5",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 1376.69,
+            "time": 170.48,
+            "delay_prob": 0.09,
+            "congestion": 0.18,
+            "geopolitical": 0.01
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "LON",
+            "cost": 1013.73,
+            "time": 39.92,
+            "delay_prob": 0.16,
+            "congestion": 0.43,
+            "geopolitical": 0.28
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1036.91,
+            "time": 110.45,
+            "delay_prob": 0.16,
+            "congestion": 0.47,
+            "geopolitical": 0.24
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 735.67,
+            "time": 214.21,
+            "delay_prob": 0.27,
+            "congestion": 0.08,
+            "geopolitical": 0.19
+          }
+        ],
+        "total_cost": 4163.0,
+        "total_time": 535.06,
+        "delay_prob": 0.17,
+        "risk_score": 0.196
+      }
+    ]
+  },
+  {
+    "shipment_id": "1e3bc298-9346-490b-9378-136936c285d2",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "ddd9048d-a6bb-4916-8c0e-2d3825ac5fb0",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 370.36,
+            "time": 76.3,
+            "delay_prob": 0.13,
+            "congestion": 0.09,
+            "geopolitical": 0.35
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 855.97,
+            "time": 225.23,
+            "delay_prob": 0.24,
+            "congestion": 0.3,
+            "geopolitical": 0.43
+          }
+        ],
+        "total_cost": 1226.33,
+        "total_time": 301.53,
+        "delay_prob": 0.185,
+        "risk_score": 0.22800000000000004
+      },
+      {
+        "route_id": "fa5b3826-b7dd-456e-bd8c-5f6788b5c2df",
+        "legs": [
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 1184.45,
+            "time": 47.29,
+            "delay_prob": 0.26,
+            "congestion": 0.4,
+            "geopolitical": 0.46
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "DXB",
+            "cost": 1217.88,
+            "time": 59.64,
+            "delay_prob": 0.07,
+            "congestion": 0.02,
+            "geopolitical": 0.04
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 603.08,
+            "time": 47.73,
+            "delay_prob": 0.14,
+            "congestion": 0.2,
+            "geopolitical": 0.44
+          }
+        ],
+        "total_cost": 3005.4100000000003,
+        "total_time": 154.66,
+        "delay_prob": 0.15666666666666668,
+        "risk_score": 0.198
+      },
+      {
+        "route_id": "6e586f3c-abae-46bf-996e-04019b591f9e",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 341.19,
+            "time": 84.72,
+            "delay_prob": 0.25,
+            "congestion": 0.48,
+            "geopolitical": 0.35
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 1772.47,
+            "time": 107.11,
+            "delay_prob": 0.19,
+            "congestion": 0.23,
+            "geopolitical": 0.08
+          },
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 1443.68,
+            "time": 140.42,
+            "delay_prob": 0.29,
+            "congestion": 0.33,
+            "geopolitical": 0.08
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 668.28,
+            "time": 93.91,
+            "delay_prob": 0.2,
+            "congestion": 0.2,
+            "geopolitical": 0.16
+          }
+        ],
+        "total_cost": 4225.62,
+        "total_time": 426.15999999999997,
+        "delay_prob": 0.23249999999999998,
+        "risk_score": 0.235
+      },
+      {
+        "route_id": "1129130c-caa5-4356-8805-639458bfb284",
+        "legs": [
+          {
+            "from_location": "DXB",
+            "to_location": "SIN",
+            "cost": 1349.82,
+            "time": 38.46,
+            "delay_prob": 0.19,
+            "congestion": 0.35,
+            "geopolitical": 0.12
+          },
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 775.23,
+            "time": 203.03,
+            "delay_prob": 0.23,
+            "congestion": 0.38,
+            "geopolitical": 0.31
+          },
+          {
+            "from_location": "LON",
+            "to_location": "DXB",
+            "cost": 1003.62,
+            "time": 55.75,
+            "delay_prob": 0.13,
+            "congestion": 0.28,
+            "geopolitical": 0.17
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "SIN",
+            "cost": 1281.18,
+            "time": 171.75,
+            "delay_prob": 0.26,
+            "congestion": 0.22,
+            "geopolitical": 0.04
+          }
+        ],
+        "total_cost": 4409.85,
+        "total_time": 468.99,
+        "delay_prob": 0.2025,
+        "risk_score": 0.215
+      }
+    ]
+  },
+  {
+    "shipment_id": "1676c217-0f6f-4905-a50d-33865733db6e",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "40e64a29-e40b-4a8c-a1d1-37fdd36dd450",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 240.51,
+            "time": 55.51,
+            "delay_prob": 0.05,
+            "congestion": 0.43,
+            "geopolitical": 0.41
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 530.14,
+            "time": 225.6,
+            "delay_prob": 0.13,
+            "congestion": 0.33,
+            "geopolitical": 0.21
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "NYC",
+            "cost": 1966.33,
+            "time": 13.28,
+            "delay_prob": 0.29,
+            "congestion": 0.32,
+            "geopolitical": 0.18
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "NYC",
+            "cost": 1424.76,
+            "time": 237.82,
+            "delay_prob": 0.14,
+            "congestion": 0.11,
+            "geopolitical": 0.14
+          }
+        ],
+        "total_cost": 4161.74,
+        "total_time": 532.21,
+        "delay_prob": 0.1525,
+        "risk_score": 0.198
+      },
+      {
+        "route_id": "e54abab4-4e10-4c89-b0c3-9f5355d8e6e3",
+        "legs": [
+          {
+            "from_location": "SIN",
+            "to_location": "HKG",
+            "cost": 755.26,
+            "time": 57.41,
+            "delay_prob": 0.06,
+            "congestion": 0.22,
+            "geopolitical": 0.27
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "LON",
+            "cost": 1354.17,
+            "time": 176.51,
+            "delay_prob": 0.08,
+            "congestion": 0.39,
+            "geopolitical": 0.27
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "LON",
+            "cost": 248.96,
+            "time": 211.62,
+            "delay_prob": 0.09,
+            "congestion": 0.47,
+            "geopolitical": 0.4
+          }
+        ],
+        "total_cost": 2358.39,
+        "total_time": 445.53999999999996,
+        "delay_prob": 0.07666666666666666,
+        "risk_score": 0.18066666666666667
+      },
+      {
+        "route_id": "e90c1253-eacb-46bb-943f-641ce0f0eeba",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 467.41,
+            "time": 70.01,
+            "delay_prob": 0.22,
+            "congestion": 0.38,
+            "geopolitical": 0.41
+          },
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 474.0,
+            "time": 122.78,
+            "delay_prob": 0.2,
+            "congestion": 0.07,
+            "geopolitical": 0.48
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 1827.21,
+            "time": 24.08,
+            "delay_prob": 0.24,
+            "congestion": 0.03,
+            "geopolitical": 0.29
+          },
+          {
+            "from_location": "LON",
+            "to_location": "SIN",
+            "cost": 1470.79,
+            "time": 160.63,
+            "delay_prob": 0.26,
+            "congestion": 0.3,
+            "geopolitical": 0.35
+          }
+        ],
+        "total_cost": 4239.41,
+        "total_time": 377.5,
+        "delay_prob": 0.23,
+        "risk_score": 0.2535
+      },
+      {
+        "route_id": "646bf3d2-6541-4c76-841a-c4b84c7bb62a",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "DXB",
+            "cost": 383.85,
+            "time": 91.91,
+            "delay_prob": 0.1,
+            "congestion": 0.37,
+            "geopolitical": 0.03
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "LON",
+            "cost": 646.13,
+            "time": 26.04,
+            "delay_prob": 0.24,
+            "congestion": 0.25,
+            "geopolitical": 0.1
+          }
+        ],
+        "total_cost": 1029.98,
+        "total_time": 117.94999999999999,
+        "delay_prob": 0.16999999999999998,
+        "risk_score": 0.177
+      },
+      {
+        "route_id": "bcd2ffcd-5bf6-4f9e-90ef-2fa6468a7e69",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1778.02,
+            "time": 99.73,
+            "delay_prob": 0.26,
+            "congestion": 0.39,
+            "geopolitical": 0.22
+          },
+          {
+            "from_location": "LON",
+            "to_location": "NYC",
+            "cost": 1856.26,
+            "time": 132.98,
+            "delay_prob": 0.13,
+            "congestion": 0.44,
+            "geopolitical": 0.18
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "NYC",
+            "cost": 951.2,
+            "time": 117.16,
+            "delay_prob": 0.14,
+            "congestion": 0.45,
+            "geopolitical": 0.05
+          }
+        ],
+        "total_cost": 4585.48,
+        "total_time": 349.87,
+        "delay_prob": 0.17666666666666667,
+        "risk_score": 0.22133333333333335
+      }
+    ]
+  },
+  {
+    "shipment_id": "ee29fc63-e944-4542-9e9e-c1191806f0b6",
+    "origin": "NYC",
+    "destination": "LON",
+    "candidates": [
+      {
+        "route_id": "3ff46b97-afa5-43af-919a-e0a04473498c",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "DXB",
+            "cost": 1693.07,
+            "time": 181.43,
+            "delay_prob": 0.27,
+            "congestion": 0.42,
+            "geopolitical": 0.21
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "DXB",
+            "cost": 1240.78,
+            "time": 10.91,
+            "delay_prob": 0.28,
+            "congestion": 0.1,
+            "geopolitical": 0.34
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 187.29,
+            "time": 99.89,
+            "delay_prob": 0.07,
+            "congestion": 0.42,
+            "geopolitical": 0.28
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 881.99,
+            "time": 229.83,
+            "delay_prob": 0.15,
+            "congestion": 0.38,
+            "geopolitical": 0.23
+          }
+        ],
+        "total_cost": 4003.13,
+        "total_time": 522.0600000000001,
+        "delay_prob": 0.1925,
+        "risk_score": 0.2345
+      },
+      {
+        "route_id": "dc4e9545-b594-4b5d-8944-547135acd9d7",
+        "legs": [
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 1284.35,
+            "time": 104.23,
+            "delay_prob": 0.13,
+            "congestion": 0.19,
+            "geopolitical": 0.03
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 1503.15,
+            "time": 198.64,
+            "delay_prob": 0.04,
+            "congestion": 0.34,
+            "geopolitical": 0.4
+          },
+          {
+            "from_location": "NYC",
+            "to_location": "SIN",
+            "cost": 276.66,
+            "time": 211.87,
+            "delay_prob": 0.09,
+            "congestion": 0.37,
+            "geopolitical": 0.32
+          }
+        ],
+        "total_cost": 3064.16,
+        "total_time": 514.74,
+        "delay_prob": 0.08666666666666667,
+        "risk_score": 0.16199999999999998
+      },
+      {
+        "route_id": "65227a30-447a-4c5b-8088-9b63e04c762e",
+        "legs": [
+          {
+            "from_location": "SIN",
+            "to_location": "DXB",
+            "cost": 1004.66,
+            "time": 99.42,
+            "delay_prob": 0.07,
+            "congestion": 0.44,
+            "geopolitical": 0.06
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "DXB",
+            "cost": 1605.12,
+            "time": 230.93,
+            "delay_prob": 0.21,
+            "congestion": 0.43,
+            "geopolitical": 0.49
+          }
+        ],
+        "total_cost": 2609.7799999999997,
+        "total_time": 330.35,
+        "delay_prob": 0.14,
+        "risk_score": 0.22600000000000003
+      },
+      {
+        "route_id": "cb615806-97cf-4169-870c-46808aeca1ac",
+        "legs": [
+          {
+            "from_location": "NYC",
+            "to_location": "HKG",
+            "cost": 1775.67,
+            "time": 183.61,
+            "delay_prob": 0.04,
+            "congestion": 0.18,
+            "geopolitical": 0.34
+          },
+          {
+            "from_location": "HKG",
+            "to_location": "DXB",
+            "cost": 1668.44,
+            "time": 239.26,
+            "delay_prob": 0.02,
+            "congestion": 0.17,
+            "geopolitical": 0.04
+          }
+        ],
+        "total_cost": 3444.11,
+        "total_time": 422.87,
+        "delay_prob": 0.03,
+        "risk_score": 0.091
+      },
+      {
+        "route_id": "4b2001d2-5650-4d19-89c9-ed4f13a459d0",
+        "legs": [
+          {
+            "from_location": "LON",
+            "to_location": "HKG",
+            "cost": 205.44,
+            "time": 112.94,
+            "delay_prob": 0.11,
+            "congestion": 0.15,
+            "geopolitical": 0.28
+          },
+          {
+            "from_location": "DXB",
+            "to_location": "HKG",
+            "cost": 1438.57,
+            "time": 233.0,
+            "delay_prob": 0.06,
+            "congestion": 0.16,
+            "geopolitical": 0.02
+          },
+          {
+            "from_location": "SIN",
+            "to_location": "DXB",
+            "cost": 1870.18,
+            "time": 209.15,
+            "delay_prob": 0.04,
+            "congestion": 0.45,
+            "geopolitical": 0.19
+          }
+        ],
+        "total_cost": 3514.19,
+        "total_time": 555.09,
+        "delay_prob": 0.06999999999999999,
+        "risk_score": 0.12533333333333335
+      }
+    ]
+  }
+]
